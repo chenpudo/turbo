@@ -1,4 +1,6 @@
-# peer graded assignment
-03-25-2019 02:26am EST
- 
-28
+# peer graded assignment 
+
+date and time of running makefile Mon Mar 25 19:34:39 DST 2019 
+
+number of lines in guessinggame.sh is 28 
+
